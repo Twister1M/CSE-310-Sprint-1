@@ -15,12 +15,9 @@ I decided to write this program because I have little experience when it comes t
 
 # Development Environment
 
+Platform - VSCode
 
-VSCode
-
-
-Java
-MD
+Language - Java
 
 # Useful Websites
 
