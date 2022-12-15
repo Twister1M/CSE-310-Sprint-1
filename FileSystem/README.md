@@ -14,10 +14,10 @@ I decided to write this program because I have little experience when it comes t
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+
 VSCode
 
-{Describe the programming language that you used and any libraries.}
+
 Java
 MD
 

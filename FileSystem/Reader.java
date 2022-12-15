@@ -1,6 +1,6 @@
 package FileSystem;
 
-import java.util.Scanner; // Import the Scanner class to read text files
+import java.util.Scanner; // Import Scanner
 
 
 public class Reader {

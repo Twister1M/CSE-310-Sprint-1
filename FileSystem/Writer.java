@@ -1,7 +1,7 @@
 package FileSystem;
 
-import java.io.FileWriter;   // Import the FileWriter class
-import java.io.IOException;  // Import the IOException class to handle errors
+import java.io.FileWriter;   // Import FileWriter
+import java.io.IOException;  // Import IOException
 import java.util.*;  // Import user input
 
 public class Writer {

@@ -1,7 +1,7 @@
 package FileSystem;
 
-import java.io.File;  // Import the File class
-import java.io.IOException;  // Import the IOException class to handle errors
+import java.io.File;  // Import File
+import java.io.IOException;  // Import IOException
 import java.util.*;  // Import user input
 
 public class Creator {
